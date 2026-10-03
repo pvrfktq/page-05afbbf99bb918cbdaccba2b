@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "c460e21ef421ea68c2af9049",
+  "owner": "pvrfktq",
+  "repo": "page-05afbbf99bb918cbdaccba2b",
+  "title": "YOYO",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "05afbbf99bb918cbdaccba2b",
+      "a": "YOYO",
+      "b": "",
+      "entity": "YOYO",
+      "brand": "YOYO",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7f46bcb1c4326b2c46d548087e17c2ba205565324250cec9f7846f3348ae3c8e",
+      "content": {
+        "keyword1": "YOYO",
+        "keyword2": "",
+        "primary_entity": "YOYO",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "YOYO 提供机场订阅与网络加速服务，覆盖多端客户端下载、节点配置与套餐说明，帮助办公、学习与流媒体访问更稳定。",
+          "AI_DESCRIPTION": "YOYO 提供机场订阅与网络加速服务，覆盖多端客户端下载、节点配置与套餐说明，帮助办公、学习与流媒体访问更稳定。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0}*{box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#FFF8F4;color:#2B2B2B;font-size:16px;line-height:1.75}a{color:#C44536;text-decoration:none}a:hover{text-decoration:underline}img,svg,video,iframe{display:none}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#fff;border-bottom:1px solid #F0D9D0}nav{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;padding:12px 0}.logo{font-weight:700;color:#E85D4C;font-size:1.2rem;margin-right:8px}nav a{color:#444;font-size:0.95rem}.hero{padding:28px 0 12px}h1{font-size:1.8rem;line-height:1.35;margin:0 0 12px;color:#1F1F1F}h2{font-size:1.4rem;color:#C44536;margin:0 0 12px}h3{font-size:1.12rem;margin:0 0 8px;color:#2B2B2B}p{margin:0 0 12px}.muted{color:#5C5C5C}.section{padding:26px 0}.card{background:#fff;border:1px solid #F3D5CC;border-radius:12px;padding:18px}.plans{display:grid;gap:14px}.plan{background:#fff;border:1px solid #F3D5CC;border-radius:12px;padding:18px}.plan.featured{border:2px solid #E85D4C}.badge{display:inline-block;background:#E85D4C;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.45rem;color:#E85D4C;font-weight:700}.annual{font-size:0.92rem;color:#5C5C5C;margin:6px 0 10px}ul{margin:0;padding-left:1.2em}li{margin:4px 0}.stagger{display:flex;flex-direction:column;gap:14px}.step{background:#fff;border:1px solid #F3D5CC;border-radius:12px;padding:16px}.num{display:inline-block;min-width:28px;height:28px;line-height:28px;text-align:center;border-radius:50%;background:#E85D4C;color:#fff;font-weight:700;margin-right:8px}details{background:#fff;border:1px solid #F3D5CC;border-radius:8px;padding:12px 14px;margin:0 0 10px}summary{font-weight:600;cursor:pointer}details p{margin:10px 0 0}.ad{background:#FFF0EB;border:1px dashed #E85D4C;border-radius:10px;padding:14px;text-align:center;margin:10px 0}.friends a{display:inline-block;margin:0 12px 8px 0}.sitemap a{display:inline-block;margin:0 12px 8px 0;color:#FFCCBC}footer{background:#2B2B2B;color:#F3F3F3;padding:26px 0;margin-top:12px}footer a{color:#FFCCBC}@media (min-width:760px){.plans{grid-template-columns:repeat(3,1fr)}.stagger{flex-direction:row;align-items:stretch;gap:22px}.stagger.reverse{flex-direction:row-reverse}.stagger .text,.stagger .panel{flex:1}h1{font-size:2rem}}</style><header><div class=\"wrap\"><nav><a class=\"logo\" href=\"#top\">YOYO</a><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#links\">导航</a></nav></div></header><main id=\"top\"><div class=\"wrap\"><section class=\"hero\" id=\"intro\"><h1>YOYO 官方网站</h1><p>YOYO 是面向跨境访问与日常加速需求的机场订阅服务。本页说明套餐差异、客户端获取方式以及从订阅到连上节点的配置流程，便于你在手机与电脑上完成官网下载与导入。</p><p class=\"muted\">服务定位于网络加速与多端客户端协同：基础线路满足网页与通讯，旗舰线路强化流媒体与游戏延迟，团队线路面向多设备与定制路由。</p></section><section class=\"section\" id=\"scenes\"><h2>YOYO 适合怎样使用</h2><div class=\"stagger\"><div class=\"text card\"><h3>远程办公与资料协作</h3><p>在需要访问海外文档、代码仓库或会议系统时，YOYO 通过稳定节点降低中断。基础版即可覆盖日常网页与邮件；需要长时间会议时可改用旗舰版高带宽节点。</p></div><div class=\"panel card\"><h3>学习、流媒体与娱乐</h3><p>课程平台、公开课与常见流媒体可按套餐解锁范围使用。旗舰版强调全节点原生流媒体，团队版提供更高并发，避免多人同时观看时互相抢占流量。</p></div></div><div class=\"stagger reverse\"><div class=\"text card\"><h3>游戏与低延迟线路</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的对战与登录。选择节点时优先看延迟与丢包，而不是单纯追求最远地区。</p></div><div class=\"panel card\"><h3>多设备同时在线</h3><p>手机、电脑与平板可共用同一订阅。基础版 3 台、旗舰版 5 台、团队版 20 台。超出设备数时，先在客户端退出旧会话再连接新设备。</p></div></div></section><section class=\"section\" id=\"plans\"><h2>YOYO 套餐与计费</h2><p>价格按自然月结算，年付可锁定当前档位。流量在统计周期内累计，到期未用完不结转。下列三档为当前官网展示方案。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section class=\"section\" id=\"guide\"><h2>配置流程：从订阅到连接</h2><p>YOYO 强调把步骤写清楚。按下面五步操作，一般可在 10 分钟内完成首次连接。手机与电脑流程相同，只是客户端界面略有差异。</p><div class=\"stagger\"><div class=\"step\"><h3><span class=\"num\">1</span>确认套餐与流量预期</h3><p>先估算每月使用：网页与即时通讯通常远低于 100GB；高清流媒体与大文件同步更容易接近旗舰版额度。团队共用一个订阅时，建议直接选团队版以免互相挤占设备席位。</p></div><div class=\"step\"><h3><span class=\"num\">2</span>在官网完成订阅并复制链接</h3><p>登录后进入订阅页，复制通用订阅地址。不要把链接发到公开群组。若只给家人使用，可在面板里查看已绑定设备，发现异常及时重置订阅。</p></div></div><div class=\"stagger reverse\"><div class=\"step\"><h3><span class=\"num\">3</span>安装对应系统的客户端</h3><p>Windows、macOS、Android、iOS 与常见路由系统均可导入同一订阅。优先使用官网下载入口提供的稳定版本，避免来路不明的修改包。安装后允许 VPN 或代理权限。</p></div><div class=\"step\"><h3><span class=\"num\">4</span>导入订阅并更新节点</h3><p>打开客户端的订阅栏，粘贴地址并更新。成功后会出现分区节点：普通线路、流媒体线路与游戏专线。若列表为空，检查是否完整复制、系统时间是否准确，然后再次更新。</p></div></div><div class=\"stagger\"><div class=\"step\"><h3><span class=\"num\">5</span>选择节点、测试再固定</h3><p>先选延迟较低的邻近节点做网页测试，再切到流媒体或 IPLC 线路。游戏请固定一条延迟稳定的专线，不要频繁自动切换。连接成功后可把该配置保存为默认，下次打开客户端一键连上。</p></div><div class=\"step\"><h3>排错备忘</h3><p>连不上时按顺序检查：订阅是否过期、流量是否用尽、本地防火墙是否拦截、是否有其他代理软件占用端口。更换节点仍失败，再提交工单并附上客户端日志时间点。</p></div></div></section><section class=\"section\" id=\"download\"><h2>客户端下载与官方入口</h2><div class=\"card\"><p>YOYO 客户端下载集中在本页锚点与用户中心。请以官网当前列出的版本为准，完成安装后再导入订阅。不同系统只是外壳不同，订阅内容一致。</p><h3>建议安装顺序</h3><ul><li>电脑端：先装主客户端，再按需安装浏览器扩展或系统代理助手。</li><li>移动端：先授予网络权限，再导入订阅，最后把常用节点设为快捷开关。</li><li>路由器：确认插件支持订阅格式后再粘贴，避免把个人链接写进可被访客看到的页面。</li></ul><p><a href=\"#guide\">查看配置流程</a> · <a href=\"#plans\">返回套餐</a> · <a href=\"#faq\">阅读导入问题</a></p></div></section><section class=\"section\" id=\"faq\"><h2>常见问题</h2><details><summary>YOYO 是什么服务？</summary><p>YOYO 是提供机场订阅与网络加速的服务品牌。用户按月或按年获取流量与节点，在官方客户端或兼容客户端中导入后使用。它面向跨境办公、学习资料访问、流媒体与游戏加速，而不是本地局域网优化工具。</p></details><details><summary>如何进行官网下载并完成第一次连接？</summary><p>打开本站客户端下载说明，安装对应系统应用，登录用户中心复制订阅地址，在客户端中粘贴并更新节点，选择一条延迟可接受的线路连接。若权限弹窗被拒绝，需要到系统设置里重新允许 VPN 或代理。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>个人轻度浏览选基础版；需要原生流媒体、游戏专线或优先工单选旗舰版；多人共用、设备超过 5 台或需要定制路由选团队版。年付价格按 10 个月计算，适合已经确认用量的用户。</p></details><details><summary>订阅导入失败或节点列表空白怎么办？</summary><p>确认链接完整、账号在有效期内、设备时间正确。关闭再打开客户端后重新更新订阅。若仍空白，重置订阅链接并只在一台主力设备上先验证。不要同时把同一链接填进过多第三方工具。</p></details><details><summary>流量、设备数和流媒体解锁如何理解？</summary><p>流量按套餐额度在计费周期内累计，含上下行。设备数指同时在线会话，不是历史绑定总数。基础版覆盖基础流媒体，旗舰版强调全节点原生解锁，实际可用性还取决于内容平台风控，遇到单条线路失败可换同分区其他节点。</p></details><details><summary>游戏加速是否必须使用旗舰版？</summary><p>不是强制，但旗舰版提供 IPLC 专线游戏加速优化，延迟更可控。基础版普通节点也能登录部分游戏，高峰期可能波动更大。建议先用网页和延迟测试，再把游戏客户端指向固定线路。</p></details></section><section class=\"section\" id=\"ads\"><h2>公告与合作展示</h2><div class=\"ad\"><p>YOYO 官方提醒：请通过本站锚点进入客户端说明与套餐页，勿轻信第三方所谓破解流量或免费节点。</p><p><a href=\"#download\">前往客户端下载说明</a></p></div></section><section class=\"section\" id=\"links\"><h2>网站地图与友链</h2><p class=\"muted\">页面内导航便于手机单手跳转，不另开外部资源。</p><p class=\"sitemap\"><a href=\"#top\">首页</a><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐价格</a><a href=\"#guide\">配置流程</a><a href=\"#download\">官网下载</a><a href=\"#faq\">FAQ</a></p><p class=\"friends\"><a href=\"#plans\">YOYO 套餐</a><a href=\"#guide\">加速器配置</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">梯子常见问题</a></p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>YOYO 官方网站 · 机场订阅与网络加速说明</p><p class=\"muted\">本页为静态介绍，链接均为页内锚点。使用加速服务请遵守所在地与目标站点的规则。</p><p><a href=\"#top\">返回顶部</a> · <a href=\"#links\">网站地图</a></p></div></footer>",
+          "hash": "50bd579cbd7b9a499f1c54ea078b85f86b1ed33555fa76da0704cd7ee33750ad",
+          "seo": {
+            "title": "YOYO官网：机场订阅、VPN 加速器与客户端下载",
+            "keywords": "YOYO,YOYO机场,YOYO VPN,网络加速,梯子,加速器,客户端下载,官网下载,机场订阅",
+            "description": "YOYO 提供机场订阅与网络加速服务，覆盖多端客户端下载、节点配置与套餐说明，帮助办公、学习与流媒体访问更稳定。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ivquxhx.cn",
+    "host": "p-e491cbbf4e.ivquxhx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ivquxhx.cn",
+      "url": "https://ivquxhx.cn/",
+      "label": "大阪国際",
+      "apex": "ivquxhx.cn",
+      "kind": null,
+      "identity": "amjgaa/page-06777f156d1fccc0cd799373"
+    },
+    {
+      "host": "rxhdp.cn",
+      "url": "https://rxhdp.cn/",
+      "label": "YOYO",
+      "apex": "rxhdp.cn",
+      "kind": null,
+      "identity": "ghc336199/page-bcfc893f6735bcef8a17dfc2"
+    },
+    {
+      "host": "s3y6vl.cn",
+      "url": "https://s3y6vl.cn/",
+      "label": "YOYO",
+      "apex": "s3y6vl.cn",
+      "kind": null,
+      "identity": "br5cqyxe/page-b1d3a78711f6906f2a797e90"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a7f345026c4abe299c8653b26df44b5165d97de4fee330d229edd43e333d91c0",
+    "sitemap.xml": "8be01e5090ae7464fda8a72e3a7d543c315bac80e2bf7445d238fc5d37c489e1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "551145c7b06c6231a4b0885a2023630af9b8316735fee6c21162410ea5726f7e",
+    "robots.txt": "70de48745c185f240aeba243b97745f4fd752d0acc03fa0996a0605b127a5187",
+    "2bf06f86a315892ff2c7f648d0766485.txt": "9e2e61d5075ef46c7b510ffc21bda7c82484247e0def1e5a8d53172a838e1bb1"
+  },
+  "revision": "22f9fedce56731c0a6173fdda502385d2993d3f825d1ec8657fbc6c7c1bf3b0a"
+}
